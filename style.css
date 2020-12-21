@@ -1,0 +1,78 @@
+body {
+    font-family: Lato;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+    background-color: rgb(243, 236, 236);
+}
+.card-content {
+    background-color: rgb(97, 12, 97);
+    color: white;
+   padding: 5%;
+}
+.card-body {
+    background-color:white;
+    padding: 5%;
+}
+.btn {
+    background-color: rgb(97, 12, 97);
+    color: red;
+    padding-left: 80px;
+    
+}
+.fa-gift {
+    font-size: 5em;
+    color: red;
+}
+
+.fa-chain-broken {
+    color: white;
+    font-size: 1em;
+    padding-left: 10px;
+}
+.p {
+color: grey;
+}
+
+.card-content-left {
+    background: white;
+    color: rgb(34, 30, 30);
+    padding: 5%;
+}
+
+.btn-broken {
+    color: white;
+    background: rgb(0, 255, 55);
+    padding-left: 2px;
+    margin: 0;
+}
+
+.btn-btn {
+    background: white;
+    margin: 0;
+}
+
+.row-content {
+    background-color: rgb(243, 236, 236);   
+}
+.card-body-right {
+    background-color:rgb(243, 236, 236);
+    padding: 5%;
+}
+
+.card-left {
+    border-bottom: 90px solid  rgb(97, 12, 97);
+    border-top: 50px solid  rgb(97, 12, 97);
+    border-right: 30px solid  rgb(97, 12, 97);
+    border-left: 30px solid  rgb(97, 12, 97);
+}
+
+.gift-left {
+    font-size: 5em;
+    color: rgb(97, 12, 97);
+}
+
+#img img {
+    border-radius: 50%;
+}
