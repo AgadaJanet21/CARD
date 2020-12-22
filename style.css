@@ -76,3 +76,12 @@ color: grey;
 #img img {
     border-radius: 50%;
 }
+
+.btn-broke {
+    padding-left: 2px;
+    background: white;
+}
+
+.fa-left {
+    color: red;
+}
